@@ -1,0 +1,11 @@
+.nav-bar{
+    text-align: center;
+    display: flex;
+    margin-left: 20px;
+    gap: 10px;
+}
+.nav{
+    background-color: pink;
+    padding: 10px;
+    border-radius: 7px;
+}
