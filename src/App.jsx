@@ -12,7 +12,7 @@ function App() {
     <h2> Protected Area Management Office <br />Brgy. Tumagabok, Boac, Marinduque</h2>
     </div>
     
-    <img  className='bg' src="./bg.jpg" alt="" />
+    <img  className='bg' src="/bg.jpg" alt="" />
   
 
 
